@@ -2,4 +2,4 @@
 
 I'm thinking about starting a blog where I analyse things with stats. We'll see where it goes.
 
-'Pauca, sed matura' from &mdash; Gauss.
+'Pauca, sed matura' from — Gauss.
